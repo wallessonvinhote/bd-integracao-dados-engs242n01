@@ -6,17 +6,17 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** _______Casal_________
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| wallesson cesar |  | |
+| Chrisllen Oliveira |  | |
 |  |  |  |
 
 ## O cenário
 
-Sua equipe foi contratada para implantar o banco de dados de uma rede de lojas. O cliente enviou:
+Sua equipe foi contratada para implantar o banco de dados de uma @rede de lojas. O cliente enviou:
 
 - a planilha `dados/base_teste.xlsx`, com 5 abas: `venda`, `pedido_compra`, `entradas_mercadoria`, `produtos_filial` e `fornecedor`;
 - o DDL das tabelas, em `sql/01_ddl_enunciado.sql`;
