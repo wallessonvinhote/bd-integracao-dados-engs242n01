@@ -10,8 +10,8 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-| wallesson cesar |  | |
-| Chrisllen Oliveira |  | |
+| wallesson cesar |  | wallessonvinhote |
+| Chrisllen Oliveira |  |ChrislenOlivia |
 |  |  |  |
 
 ## O cenário
